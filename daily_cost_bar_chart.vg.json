@@ -20,7 +20,7 @@
 
       {
         "data": {
-          "url": "output.topojson",
+          "url": "https://raw.githubusercontent.com/yueherngtang/fit3179w9hw/refs/heads/main/malaysia-states.topojson",
           "format": {
             "type": "topojson",
             "feature": "states"
@@ -53,7 +53,7 @@
           "lookup": "properties.Name",  
           "from": {
             "data": {
-              "url": "2022.csv"  
+              "url": "https://raw.githubusercontent.com/yueherngtang/fit3179w9hw/refs/heads/main/2022.csv"  
             },
             "key": "state",  
             "fields": ["expenditure-to-income ratio"]
@@ -128,7 +128,7 @@
           "lookup": "properties.Name",  
           "from": {
             "data": {
-              "url": "2022.csv"  
+              "url": "https://raw.githubusercontent.com/yueherngtang/fit3179w9hw/refs/heads/main/2022.csv"  
             },
             "key": "state",  
             "fields": ["expenditure-to-income ratio"]
